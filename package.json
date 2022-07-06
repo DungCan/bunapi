@@ -1,0 +1,31 @@
+{
+  "name": "bunapi",
+  "version": "1.0.0",
+  "description": "A simple image api",
+  "main": "index.js",
+  "typings": "./index.d.ts",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/catcat1204/bunapi.git"
+  },
+  "keywords": [
+    "discord",
+    "discord.js",
+    "api",
+    "image",
+    "image api",
+    "bot",
+    "bunapi"
+  ],
+  "author": "catcat01",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/catcat1204/bunapi/issues"
+  },
+  "homepage": "https://github.com/catcat1204/bunapi#readme"
+}
